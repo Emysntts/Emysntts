@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Emyle Santos! 
 
-<!--
-**Emysntts/Emysntts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student at [Federal University of Paraíba (UFPB)](https://www.ufpb.br/).
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/emylesantos/)
+- [GitHub](https://github.com/Emysntts)
+
+---
+
+## 🚀 Interests & Skills:
+- **Data Science** 📊
+- **Artificial Intelligence** 🤖
+- **Software Development** 💻
+- **LLMs** 📚
+- **Open Source Contribution** 🌍
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emysntts&layout=compact&theme=dark" alt="Emyle's Most Used Languages">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Emysntts&show_icons=true&theme=dark&bg_color=45,0000FF,800080" alt="Emysntts's GitHub Stats">
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=Emysntts&theme=dark" alt="Emyle's GitHub Streak" />
+</div>
+
+---
+
+## 📈 Profile Views
+
+<p align="center">
+  <img height="30em" src="https://komarev.com/ghpvc/?username=Emysntts&color=grey&style=plastic&label=Profile%20Views%20&logo=github" alt="Emyle's Profile Views Counter">
+</p>
